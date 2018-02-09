@@ -4,6 +4,6 @@
 
 **Lecture notes of Introduction to Python Programming**
 
-## 课程简介及环境搭建
-### 1. 课程简介
-### 2. 环境搭建
+## [课程简介及环境搭建](Lec01-课程简介及环境搭建.md)
+
+
