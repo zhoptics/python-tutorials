@@ -37,9 +37,7 @@ Python编程入门
 ## 参考教材
 
 1. Eric Matthes[著], 袁国忠[译]. **Python编程：从入门到实践**. 北京: 人民邮电出版社, 2016 
-
-![Python编程：从入门到实践](images/cover.png)
-
+  ![Python编程：从入门到实践](images/cover.png)
 2. 在[**京东**](http://www.jd.com)、[**当当**](http://www.dangdang.com)、[**淘宝**](http://www.taobao.com)、[**纺大图书馆**](http://lib.wtu.edu.cn/)搜索关键词: **`Python`**，任何一本相关书籍均可
 3. 廖雪峰的[**Python教程**](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000).
 4. Vamei的[**Python快速教程**](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html).
@@ -84,7 +82,6 @@ Python语法简洁，入门非常容易。人生苦短，我用Python！选修�
 
 1. 采用五级评分制：`优秀`，`良好`，`中等`，`及格`和`不及格`
 2. 最终成绩由平时成绩(50%)和期末成绩(50%)组成，由教务系统自动换算成五级评分
-
 3. 平时成绩评定由购买教材的情况、签到、课堂或课后作业共同决定，每次平时成绩最高10分
    -  购买教材的情况记录1次平时成绩，10分
    -  签到5次，每次10分，未到或早退记0分，共50分

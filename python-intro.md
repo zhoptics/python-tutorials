@@ -1,6 +1,7 @@
 # Python语言简介
 
 ![python-logo.png](images/python-logo.png)
+
 **Python**（英音：/ˈpaɪθən/  美音：/ˈpaɪθɑ:n/）是一种面向对象的、动态的、解释型的高级程序设计语言，是由著名的“**龟叔**”[**Guido van Rossum**](https://baike.baidu.com/item/Guido%20van%20Rossum)在1989年圣诞节期间发明的，第一个公开发行版发行于1991年。
 
 ![Guido van Rossum](images/guido-van-rossum.jpg)
@@ -48,7 +49,7 @@ Python在人工智能、机器学习、深度学习、自然语言处理、数�
 
  **IEEE Spectrum** 发布的[**研究报告**](http://spectrum.ieee.org/computing/software/the-2017-top-programming-languages)显示，2016 年排名第三的 Python 在2017年已经成为世界上最受欢迎的语言。
 
-![rank-IEEE-2017](IMAGES/rank-IEEE-2017.JPG)
+![rank-IEEE-2017](images/rank-IEEE-2017.jpg)
 
 
 
@@ -172,7 +173,7 @@ Python有Python 2 和 Python 3两个版本，对入门学习而言，在使用�
 
 
 
-**Python 2和Python 3的区别 **
+**Python 2和Python 3的区别:**
 1. print 在Python 2中，print是一个语句，后面可以不加括号；在Python 3中，print是一个函数，后面必须加括号
 2. 除法 “/”在Python 2中表示整除，在Python 3中表示精确的除法，Python 3中整除用“//”表示，在Python 2中可以使用`import __future__ `来体验Python 3中的函数
 3. Python 2对中文支持不好，如果要输入中文字符或者注释，需要在文本文件首行标注**# -*- coding:utf-8 -*-**或者**coding=utf-8**(只识别coding和utf-8，其它字符不识别)
