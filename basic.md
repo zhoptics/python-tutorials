@@ -92,15 +92,21 @@
 
    按`Windows`键，输入`uac`并回车，将通知权限设为最低，按以下步骤操作之后点击`确定` 。
 
-   ![UAC](images/uac.png)
+   ![uac.png](images/uac.png)
+
+   ​
 
 2. 显示已知文件的扩展名，显示隐藏文件，按以下步骤操作之后点击`确定` 。
 
-    ![ext-settings](images/ext-settings.png)
+    ![ext-settings.png](images/ext-settings.png)
+
+    ​
 
     文件扩展名取消隐藏前后对比：
 
-    ![ext-hide-unhide](images/ext-hide-unhide.png)
+    ![ext-hide-unhide.png](images/ext-hide-unhide.png)
+
+    ​
 
 
 

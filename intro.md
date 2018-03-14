@@ -37,7 +37,7 @@ Python编程入门
 ## 参考教材
 
 1. Eric Matthes[著], 袁国忠[译]. **Python编程：从入门到实践**. 北京: 人民邮电出版社, 2016 
-  ![Python编程：从入门到实践](images/cover.png)
+  ![pcc-cover](images/cover.png)
 2. 在[**京东**](http://www.jd.com)、[**当当**](http://www.dangdang.com)、[**淘宝**](http://www.taobao.com)、[**纺大图书馆**](http://lib.wtu.edu.cn/)搜索关键词: **`Python`**，任何一本相关书籍均可
 3. 廖雪峰的[**Python教程**](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000).
 4. Vamei的[**Python快速教程**](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html).
@@ -50,7 +50,8 @@ Python编程入门
 
 **这里分享了教材上的笔记和代码 https://zhoptics.github.io/python-tutorials **
 
-![python-tutorials-websites](images/python-tutorials-websites.png)
+![python-tutorials-websites.png](images/python-tutorials-websites.png)
+
 
 
 

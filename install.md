@@ -14,7 +14,7 @@ Python的解释器(interpreter)很多，有基于C语言的CPython，有基于Ja
 
 在安装Python之前，需要知道操作系统版本，这里采用的是64位Window 7 SP1 简体中文版。
 
-![install-python-osinfo](images/install-python-osinfo.png)
+![install-python-osinfo.png](images/install-python-osinfo.png)
 
 64位Windows操作系统建议安装64位的Python 3.5/3.6版本，也可以安装32位的Python版本。32位的Windows操作系统只能安装32位的Python版本。Windows 7/8/10可以安装任何一个版本的Python，Windows XP系统只能安装Python 2和Python 3.4。
 
@@ -24,27 +24,27 @@ Python的解释器(interpreter)很多，有基于C语言的CPython，有基于Ja
 
 通过浏览器访问Python官方官网**https://www.python.org**
 
-![](images/install-python-downloads.png)
+![install-python-downloads.png](images/install-python-downloads.png)
 
-![](images/install-python-downloads-Windows.png)
+![install-python-downloads-Windows.png](images/install-python-downloads-Windows.png)
 
-![](images/install-python-downloads-py364.png)
+![install-python-downloads-py364.png](images/install-python-downloads-py364.png)
 
 **Step 2：双击下载的exe文件进行安装**
 
-![](images/install-python-step01.png)
+![install-python-step01.png](images/install-python-step01.png)
 
-![](images/install-python-step02.png)
+![install-python-step02.png](images/install-python-step02.png)
 
-![](images/install-python-step03.png)
+![install-python-step03.png](images/install-python-step03.png)
 
-![](images/install-python-step04.png)
+![install-python-step04.png](images/install-python-step04.png)
 
-![](images/install-python-step05.png)
+![install-python-step05.png](images/install-python-step05.png)
 
 **Step 3：开始编写运行程序** 
 
-![](images/install-python-start.png)
+![install-python-start.png](images/install-python-start.png)
 
 
 
@@ -64,19 +64,22 @@ Window平台通常采用[**非官方**](https://www.lfd.uci.edu/~gohlke/pythonli
 
 3. 某些库，比如dlib在安装时需要C++编译器，这时需要安装Visual Studio 2010/2013/2015 C++编译器或者MinGW C++编译器，也可以在[**WinPython**](http://winpython.github.io/)或者[**Anaconda**](https://www.continuum.io/downloads)的环境下直接使用pip或者conda安装。
 
-4. Windows 10尽量用**管理员**权限在**PowerShell**中运行**pip**命令。
+4. Windows 10尽量用**管理员**权限在**Powershell**中运行**pip**命令。
 
-   ![](images/python-pip.png)
-
-
+   ![python-pip.png](images/python-pip.png)
 
 
 **Python程序的运行：**
 
 1. 在Windows命令行输入python或者ipython打开REPL交互式环境，逐句输入代码并执行
+
 2. 用IDLE编写运行Python代码和`.py`文件
+
 3. 用Jupyter Notebook/Jupyterlab编写运行代码
+
 4. 在Spyder中编写运行代码
+
+
 
 
 
@@ -93,24 +96,29 @@ WinPython和Python(x, y)都只能运行在Windows平台上。
 下载WinPython之后直接安装即可，双击安装包WinPython-64bit-3.5.4.1Qt5.exe进行安装（这里演示的是WinPython-64bit-3.5的版本）。
 
 Step 1：同意安装协议，不同意自动退出安装
-![](images/winpython-install-1.png)
+![winpython-install-1.png](images/winpython-install-1.png)
+
 Step 2：设置安装路径，直接更改或点击Browse
-![](images/winpython-install-2.png)
+![winpython-install-2.png](images/winpython-install-2.png)
+
 Step 3：正在安装
-![](images/winpython-install-3.png)
+![winpython-install-3.png](images/winpython-install-3.png)
+
 Step 4：查看安装细节，安装过程是一个解压过程
-![](images/winpython-install-4.png)
+![winpython-install-4.png](images/winpython-install-4.png)
+
 Step 5：等待安装完成
-![](images/winpython-install-5.png)
+![winpython-install-5.png](images/winpython-install-5.png)
+
 Step 6：完成安装
-![](images/winpython-install-6.png)
+![winpython-install-6.png](images/winpython-install-6.png)
 
 
 
 **WinPython的使用**：
 
 安装完成之后可直接使用WinPython集成的IDLEX, ipython, Jupyter Notebook(ipython notebook), Spyder等工具，双击相应的.exe文件直接运行。
-![WinPython](images/winpython.png)
+![winpython.png](images/winpython.png)
 
 notebooks文件夹放置了部分文档手册，ipynb格式(ipython notebook)。
 
@@ -122,15 +130,15 @@ IDLEX是一个Python 3.5 Shell，一个交互式的Python运行环境，可以�
 
 IPython Qt Console是一个利用Qt开发的IPython控制台界面，现已更名为Jupyter QtConsole。
 
-![](images/winpython-jupyter-qtconsole.png)
+![winpython-jupyter-qtconsole.png](images/winpython-jupyter-qtconsole.png)
 
 Jupyter Lab是一个Jupyter实验室，可以在网页端编写调试python程序。
 
-![](images/winpython-winjupyter.png)
+![winpython-winjupyter.png](images/winpython-winjupyter.png)
 
 Jupyter Notebook是一个交互式笔记本(以前叫ipython notebook)，可以边写代码边执行，使用非常方便，现在已经成为数据科学和数据分析的标配。
 
-![](images/winpython-jupyter-notebook.png)
+![winpython-jupyter-notebook.png](images/winpython-jupyter-notebook.png)
 
 
 
@@ -138,17 +146,17 @@ Qt Designer是基于Qt的跨平台GUI图形界面开发程序。
 
 Spyder是一个类似于Matlab的软件界面，可以很方便的编写、调试、运行python程序。
 
-![](images/winpython-spyder.png)
+![winpython-spyder.png](images/winpython-spyder.png)
 
 
 
 WinPython Command Prompt是一个WinPython的命令提示符，在该命令提示符下采用**pip**来管理各种拓展包、调用WinPython的解释器来运行Python程序。
 
-![](images/winpython-pip.png)
+![winpython-pip.png](images/winpython-pip.png)
 
 WinPython Control Panel是WinPython的控制面板，可以查看已安装的包，也可以将WinPython添加至系统菜单。
 
-![](images/winpython-controlpanel.png)
+![winpython-controlpanel.png](images/winpython-controlpanel.png)
 
 WinPython Interpreter是一个WinPython解释器。
 
@@ -168,7 +176,7 @@ WinPython Powershell Prompt是一个增强型的WinPython Command Prompt程序�
 
 在**Anaconda Prompt**环境下采用**conda install _package-name_**安装各种拓展包。
 
-![](images/Anaconda-Navigator.png)
+![Anaconda-Navigator.png](images/Anaconda-Navigator.png)
 
 
 
@@ -176,55 +184,51 @@ WinPython Powershell Prompt是一个增强型的WinPython Command Prompt程序�
 
 Step 1: 双击Anaconda3-5.1.0-Windows-x86_64.exe安装包
 
-![](images/Anaconda-install-1.png)
+![Anaconda-install-1.png](images/Anaconda-install-1.png)
 
 Step 2: 接受安装协议，不接受不能安装
 
-![](images/Anaconda-install-2.png)
+![Anaconda-install-2.png](images/Anaconda-install-2.png)
 
 Step 3: 为所有用户安装
 
-![](images/Anaconda-install-3.png)
+![Anaconda-install-3.png](images/Anaconda-install-3.png)
 
 Step 4: 更改安装路径
 
-![](images/Anaconda-install-4.png)
+![Anaconda-install-4.png](images/Anaconda-install-4.png)
 
 Step 5: 设置系统变量
 
-![](images/Anaconda-install-5.png)
+![Anaconda-install-5.png](images/Anaconda-install-5.png)
 
 Step 6: 正在安装
 
-![](images/Anaconda-install-6.png)
+![Anaconda-install-6.png](images/Anaconda-install-6.png)
 
 Step 7: 正在安装，显示安装细节
 
-![](images/Anaconda-install-7.png)
+![Anaconda-install-7.png](images/Anaconda-install-7.png)
 
 Step 8: 安装完成
 
-![](images/Anaconda-install-8.png)
+![Anaconda-install-8.png](images/Anaconda-install-8.png)
 
 Step 9: 安装VS Code(可跳过)
 
-![](images/Anaconda-install-9.png)
+![Anaconda-install-9.png](images/Anaconda-install-9.png)
 
 Step 10: 正在安装VS Code
 
-![](images/Anaconda-install-10.png)
+![Anaconda-install-10.png](images/Anaconda-install-10.png)
 
 Step 11: VS Code安装完成
 
-![](images/Anaconda-install-11.png)
+![Anaconda-install-11.png](images/Anaconda-install-11.png)
 
 Step 12: 完成安装Anaconda3
 
-![](images/Anaconda-install-12.png)
-
-
-
-
+![Anaconda-install-12.png](images/Anaconda-install-12.png)
 
 
 
@@ -243,11 +247,9 @@ Step 12: 完成安装Anaconda3
 
 2. 打开**VS Code**编辑器，并安装python插件
 
-   ![vscode](images/vscode.png)
+   ![vscode.png](images/vscode.png)
 
 3. 学会使用**VS Code**来编写、调试、运行Python代码
-
-   ​
 
 
 
@@ -261,7 +263,7 @@ Step 12: 完成安装Anaconda3
 
 启动Notepad++，点击运行-运行-输入cmd /k python "$(FULL_CURRENT_PATH)" & ECHO. & PAUSE & EXIT 并保存，设置快捷键(Ctrl+Alt+P)，参考这里的一个[教程](http://www.cnblogs.com/zhcncn/p/3969419.html)。
 
-**注意: 如果Python不是安装在默认的安装路劲，务必将上一句的cmd /k 后面的python前添加完整路径。[举例](http://blog.csdn.net/evabook/article/details/52261282)如果直接将WinPython安装在C盘，则要用C:\WinPython-32bit-2.7.9.2\python-2.7.9\python.exe替换掉cmd /k 后面的python**
+**注意: 如果Python不是安装在默认的安装路劲，务必将上一句的cmd /k 后面的python前添加完整路径。[举例](http://blog.csdn.net/evabook/article/details/52261282)如果直接将WinPython安装在C盘，则要用C:\WinPython\WinPython-64bit-3.5.4.1Qt5\python-3.5.4.amd64\python.exe替换掉cmd /k 后面的python**
 
 
 
@@ -307,7 +309,7 @@ Step 12: 完成安装Anaconda3
 
 对于 GNU/Linux 用户，你可以使用发行版的包管理器来安装 Python 3，例如在 Debian 与Ubuntu 平台下，你可以输入命令：**sudo apt install python3**，不过Linux发行版都自带了Python。在终端Terminal 输入**python3 -V**或者**python3 --version**可以查看Python 3的具体版本信息；在终端Terminal 输入**python -V**或者**python --version**可以查看Python 2的具体版本信息。
 
-![ubuntu-python-terminal](images/ubuntu-python-terminal.png)
+![ubuntu-python-terminal.png](images/ubuntu-python-terminal.png)
 
 **扩展包的安装：**
 

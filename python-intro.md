@@ -4,7 +4,7 @@
 
 **Python**（英音：/ˈpaɪθən/  美音：/ˈpaɪθɑ:n/）是一种面向对象的、动态的、解释型的高级程序设计语言，是由著名的“**龟叔**”[**Guido van Rossum**](https://baike.baidu.com/item/Guido%20van%20Rossum)在1989年圣诞节期间发明的，第一个公开发行版发行于1991年。
 
-![Guido van Rossum](images/guido-van-rossum.jpg)
+![guido-van-rossum.jpg](images/guido-van-rossum.jpg)
 
 龟叔给Python的定位是“简单”、“明确”、“优雅”，所以Python程序看上去总是简单易懂，零基础初学者学Python，不但入门容易，而且将来深入下去，可以编写非常复杂的程序。
 
@@ -23,7 +23,7 @@ Python在人工智能、机器学习、深度学习、自然语言处理、数�
 
 2018年3月，[**TIOBE**](https://www.tiobe.com/tiobe-index/)排名Python已经排在第4位。
 
-![rank-tiobe-1803](images/rank-tiobe-1803.png)
+![rank-tiobe-1803.png](images/rank-tiobe-1803.png)
 
 
 
@@ -31,8 +31,7 @@ Python在人工智能、机器学习、深度学习、自然语言处理、数�
 
 [**GitHub**](https://github.com)的[**调查报告** ](https://octoverse.github.com/)对于我们对未来的技术趋势判断有很大的参考意义，2017年Python排第2位。
 
-![rank-github-2017](images/rank-github-2017.png)
-
+![rank-github-2017.png](images/rank-github-2017.png)
 
 
 
@@ -41,15 +40,24 @@ Python在人工智能、机器学习、深度学习、自然语言处理、数�
 
 国际著名的问答社区[**Stack Overflow**]在2017年的[**开发者调查报告**](https://insights.stackoverflow.com/survey/2017)中，Python的活跃程度排在第5位。
 
-![rank-stackoverflow-2017](images/rank-stackoverflow-2017.png)
+![rank-stackoverflow-2017.png](images/rank-stackoverflow-2017.png)
 
 
 
-## 4. IEEE排名
+## 4. IEEE Spectrum排名
 
  **IEEE Spectrum** 发布的[**研究报告**](http://spectrum.ieee.org/computing/software/the-2017-top-programming-languages)显示，2016 年排名第三的 Python 在2017年已经成为世界上最受欢迎的语言。
 
-![rank-IEEE-2017](images/rank-IEEE-2017.jpg)
+![rank-IEEE-2017.jpg](images/rank-IEEE-2017.jpg)
+
+
+
+
+## 5. RedMonk排名
+
+**RedMonk**是一家专注软件开发者的行业分析公司，**RedMonk**的[编程语言排名](https://redmonk.com/sogrady/2018/03/07/language-rankings-1-18/)综合了GitHub和Stack Overflow的排名数据，更能直接体现开发者对各种编程语言的兴趣程度。2018年3月，Python排名第3。
+
+![rank-redmonk-1803.png](images/rank-redmonk-1803.png)
 
 
 
@@ -58,15 +66,15 @@ Python在人工智能、机器学习、深度学习、自然语言处理、数�
 ## 1. 2018 AI工程师校招薪酬
 
 今年互联网企业中研究深度学习、机器学习、人工智能等岗位比较火热，**校招年薪30万人民币只是起步价**。
-![salary-ai-school-2018](images/salary-ai-2018.jpg)
+![salary-ai-school-2018.jpg](images/salary-ai-2018.jpg)
 
 
 
 ## 2. 职友集Python工资查询
 
-在[**职友集**](http://www.jobui.com/jobs/)上点击查工资，输入Python可以查看城市的工资信息，比如[**北京的Python工资**](http://www.jobui.com/salary/?cityKw=%E5%8C%97%E4%BA%AC&jobKw=python) 。
+在[**职友集**](http://www.jobui.com/jobs/)上点击查工资，输入Python可以查看城市的工资信息，比如[**北京的Python工资**](http://www.jobui.com/salary/?cityKw=%E5%8C%97%E4%BA%AC&jobKw=python) 。感兴趣的同学也可以在[**拉勾网**](https://www.lagou.com/zhaopin/Python/?labelWords=label)上查询Python相关岗位的待遇和要求，方便以后有针对性地学习。
 
-![salary-zhiyouji-2018](images/salary-zhiyouji-2018.png)
+![salary-zhiyouji-2018.png](images/salary-zhiyouji-2018.png)
 
 
 
@@ -74,7 +82,7 @@ Python在人工智能、机器学习、深度学习、自然语言处理、数�
 
 [**CSDN EDU**](https://edu.csdn.net/)上一个Python课程推介中提到的平均工资。
 
-![salary-CSDN-2018](images/salary-CSDN-2018.png)
+![salary-CSDN-2018.png](images/salary-CSDN-2018.png)
 
 
 
