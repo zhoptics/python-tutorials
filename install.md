@@ -263,7 +263,7 @@ Step 12: 完成安装Anaconda3
 
 启动Notepad++，点击运行-运行-输入cmd /k python "$(FULL_CURRENT_PATH)" & ECHO. & PAUSE & EXIT 并保存，设置快捷键(Ctrl+Alt+P)，参考这里的一个[教程](http://www.cnblogs.com/zhcncn/p/3969419.html)。
 
-**注意: 如果Python不是安装在默认的安装路劲，务必将上一句的cmd /k 后面的python前添加完整路径。[举例](http://blog.csdn.net/evabook/article/details/52261282)如果直接将WinPython安装在C盘，则要用C:\WinPython\WinPython-64bit-3.5.4.1Qt5\python-3.5.4.amd64\python.exe替换掉cmd /k 后面的python**
+**注意: 如果Python不是安装在默认的安装路劲，务必将上一句的cmd /k 后面的python前添加完整路径。[举例](http://blog.csdn.net/evabook/article/details/52261282)如果直接将WinPython安装在C盘，则要用python解释器所在的路径(C:\WinPython\WinPython-64bit-3.5.4.1Qt5\python-3.5.4.amd64\python.exe)替换掉cmd /k 后面的python**
 
 
 

@@ -16,7 +16,12 @@
 
 # 第1部分 基础知识
 
-## [第01章 起步](chap01_getting_started.md)
+## [第01章 起步](src/chapter_01/chap01_getting_started.md)	[第02章 变量和简单数据类型](src/chapter_02/chap02_variables_and_simple_data_types.md)	[第03章 列表简介](src/chapter_03/chap03_introducing_lists.md)	[第04章 列表操作](src/chapter_04/chap04_working_with_lists.md)	[第05章 if语句](src/chapter_05/chap05_if_statements.md)
+
+
+
+
+
 
 
 

@@ -167,27 +167,3 @@ Python语言是编程语言界的**万能胶水**，Python的应用非常广泛�
 
 
 
-
-
-# Python版本选择
-
-Python有Python 2 和 Python 3两个版本，对入门学习而言，在使用上两个版本的区别不大，选择任何一个版本都可以。但Python 2 即将在2020年停止支持，**建议选择Python 3.5/3.6的版本**，绝大部分第三方库都完美地支持了Python 3.5/3.6。
-
-
-
-如果你使用的是**Windows XP**操作系统，只能使用Python 2.7 和Python 3.4。
-
-如果你使用的是64位**Windows 7/10**，只能在安装Python 3.5+以上的版本安装tensorflow。
-
-
-
-**Python 2和Python 3的区别:**
-1. print 在Python 2中，print是一个语句，后面可以不加括号；在Python 3中，print是一个函数，后面必须加括号
-2. 除法 “/”在Python 2中表示整除，在Python 3中表示精确的除法，Python 3中整除用“//”表示，在Python 2中可以使用`import __future__ `来体验Python 3中的函数
-3. Python 2对中文支持不好，如果要输入中文字符或者注释，需要在文本文件首行标注**# -*- coding:utf-8 -*-**或者**coding=utf-8**(只识别coding和utf-8，其它字符不识别)
-4. 输入函数：在Python 2中有raw_input()和input()函数, 在Python 3中只有input()
-5. third-party packages的支持有所不同，Python 2更多一些，但是绝大部分的package都会支持Python 3
-6. [Python 2与Python 3的区别官网详解](https://wiki.python.org/moin/Python2orPython3)
-
-
-
